@@ -1,1 +1,1 @@
-This is a small program written for class. It will take a given positive integer(of size 31 bits or smaller) and count the number of 1s within it. It will also count the biggest block of 1s in the number. 
+This is a small program written for class. It will take a given positive integer(of size 31 bits or smaller) and count the number of 1s(in the binary representation of the given number) within it. It will also count the biggest block of 1s in the number. 
